@@ -1,0 +1,27 @@
+.bg-pink {
+    background-color: #FFC0CB; /* Warna pink */
+  }
+
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #FFD1DC;
+}
+
+.container {
+    padding: 0px;
+}
+
+#experience{
+background-color: #FFD1DC;
+}
+
+.btn-pink {
+    background-color: #FFC0CB; /* Warna pink */
+    border-color: #FFC0CB;     /* Warna border pink */
+    color: white;              /* Warna teks tombol */
+  }
+.btn-pink:hover {
+    background-color: #FFB6C1; /* Warna pink lebih muda saat hover */
+    border-color: #FFB6C1;     /* Warna border saat hover */
+  }
+
